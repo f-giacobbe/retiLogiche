@@ -1,0 +1,40 @@
+{
+  "ProjectName": "Ciccio",
+  "BuildVersion": "1.0.2",
+  "CreationTime": "2024-01-11T18:32:14.4572509+01:00",
+  "AllCreatedChips": [
+    "OR",
+    "NAND",
+    "NOR",
+    "XOR",
+    "7 segment display",
+    "with display",
+    "Decoder",
+    "Encoder",
+    "MUX",
+    "DEMUX",
+    "FA",
+    "Adder"
+  ],
+  "StarredChips": [
+    "AND",
+    "NOT",
+    "OR",
+    "NAND",
+    "NOR",
+    "XOR",
+    "7 segment display",
+    "with display",
+    "Decoder",
+    "Encoder",
+    "MUX",
+    "DEMUX",
+    "FA",
+    "Adder"
+  ],
+  "DisplayOptions": {
+    "MainChipPinNameDisplayMode": 1,
+    "SubChipPinNameDisplayMode": 1,
+    "ShowCursorGuide": 0
+  }
+}
